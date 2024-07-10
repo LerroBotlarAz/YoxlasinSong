@@ -1,0 +1,20 @@
+{
+    "name": "MusicBot",
+    "description": "Music bot for you to download music from Telegram",
+    "logo": "https://graph.org/file/b10c9f74ff5fa7d58e413.jpg",
+    "repo": "https://github.com/xGuliyev/MusicBot",
+    "keywords": [
+    "MusicBot",
+    "pyrogram"
+    ],
+    "env": {
+      "BOT_TOKEN": {
+        "description": "A Bot's token from Botfather",
+        "value": "",
+        "required": true
+      }
+    }
+}
+
+
+    

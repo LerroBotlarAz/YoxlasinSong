@@ -1,0 +1,8 @@
+pyrogram
+Tgcrypto
+aylak
+yt-dlp
+youtube-search
+youtube-search-python
+colorama
+requests
