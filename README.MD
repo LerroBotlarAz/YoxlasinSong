@@ -7,6 +7,8 @@
 
 <h4> <span> · </span> <a href="https://github.com/xGuliyev/MusicBot/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/xGuliyev/MusicBot/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/xGuliyev/MusicBot/issues"> Request Feature </a> </h4>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/xGuliyev/MusicBot)
+
 
 </div>
 
