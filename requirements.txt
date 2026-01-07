@@ -6,3 +6,4 @@ youtube-search
 youtube-search-python
 colorama
 requests
+pyfiglet
